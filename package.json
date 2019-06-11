@@ -1,7 +1,7 @@
 {
-  "name": "testapp",
+  "name": "mvc-ci",
   "version": "1.0.0",
-  "description": "My test app",
+  "description": "Very simple implimentation of MVC architecture in nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
